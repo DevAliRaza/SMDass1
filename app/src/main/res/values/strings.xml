@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chatify</string>
+    <string name="logo">Logo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_account">Already have an account? Login now</string>
+    <string name="chatify">Chatify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
